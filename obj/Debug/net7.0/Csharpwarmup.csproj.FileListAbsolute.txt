@@ -1,0 +1,15 @@
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\bin\Debug\net7.0\Csharpwarmup.exe
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\bin\Debug\net7.0\Csharpwarmup.deps.json
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\bin\Debug\net7.0\Csharpwarmup.runtimeconfig.json
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\bin\Debug\net7.0\Csharpwarmup.dll
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\bin\Debug\net7.0\Csharpwarmup.pdb
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.csproj.AssemblyReference.cache
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.AssemblyInfoInputs.cache
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.AssemblyInfo.cs
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.csproj.CoreCompileInputs.cache
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.dll
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\refint\Csharpwarmup.dll
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.pdb
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\Csharpwarmup.genruntimeconfig.cache
+C:\Users\juliu\OneDrive\Desktop\nu flashstuff\Csharp\Csharpwarmup\obj\Debug\net7.0\ref\Csharpwarmup.dll
